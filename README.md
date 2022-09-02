@@ -1,3 +1,3 @@
 # pwa-news
-## sample progressive web app
+This is a sample progressive web app.
 Use freely.
