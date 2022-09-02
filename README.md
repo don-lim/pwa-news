@@ -1,1 +1,2 @@
 # pwa-news
+Use freely.
